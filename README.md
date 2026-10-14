@@ -85,6 +85,8 @@ Tests use synthetic media. Real games, BIOS, firmware, saves and account credent
 
 Hub code is [MIT licensed](LICENSE). Fonts, libraries and other components retain their [own licenses](THIRD-PARTY-NOTICES.md).
 
+If you're publishing a fork or using the Hub in another project, please credit [peachyGT](https://github.com/peachyGT), link to [Armored Core Hub](https://github.com/peachyGT/armored-core-hub) and [get in touch](https://github.com/peachyGT/armored-core-hub/issues/new?title=Project%20reuse) first. Visible credit and prior contact are courtesy requests; they don't add conditions to MIT. Redistributed copies must retain the copyright and license notice.
+
 Use only game files and system dumps you are legally entitled to use. The Hub does not supply commercial games or BIOS files. Emulator binaries and PS3 firmware are not bundled. No game files or reusable artwork collection are included in the download. We do NOT condone or support piracy. Read the [legal notice](LEGAL.md). 
 
 This is an independent project, unaffiliated with FromSoftware, Bandai Namco, Sony, Microsoft or emulator authors.
