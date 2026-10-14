@@ -1,35 +1,39 @@
 name: Bug report
 description: Report an app, setup or launch problem.
+labels: [bug]
 body:
   - type: markdown
     attributes:
-      value: Do not attach games, BIOS, firmware, saves, tokens or account details. Check diagnostics for private paths before sharing them.
+      value: Check [existing issues](https://github.com/peachyGT/armored-core-hub/issues) first. Do not attach game files, BIOS, firmware, saves or credentials. Remove private paths from logs.
   - type: input
     id: version
     attributes:
       label: Hub version
-      placeholder: 0.3.10
+      description: Find it under Settings → About and legal → About.
+      placeholder: e.g. 0.3.10
     validations:
       required: true
-  - type: input
-    id: environment
-    attributes:
-      label: Windows version and hardware
-      description: For graphics or launch problems, include CPU and GPU.
-  - type: input
-    id: edition
-    attributes:
-      label: Game edition and emulator build
-      description: If relevant, include console, region and product serial. Do not upload game files.
   - type: textarea
     id: reproduce
     attributes:
       label: What happened?
-      description: Include steps, expected behavior and what you saw instead.
+      description: What did you do, what did you expect, and what happened instead?
+      placeholder: |
+        Steps:
+        1.
+        2.
+
+        Expected:
+        Actual:
     validations:
       required: true
   - type: textarea
+    id: setup
+    attributes:
+      label: Game and setup (optional)
+      description: Game, console/region, emulator build and Windows version if known. For graphics or FPS issues, include CPU/GPU.
+  - type: textarea
     id: evidence
     attributes:
-      label: Logs or screenshots
+      label: Logs or screenshots (optional)
       description: Optional. Remove private paths and credentials first.

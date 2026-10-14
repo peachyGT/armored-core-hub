@@ -8,7 +8,7 @@ Easiest way to enjoy Armored Core.
 <p>
   <a href="https://github.com/peachyGT/armored-core-hub/releases">Download</a> ·
   <a href="docs/usage.md">User guide</a> ·
-  <a href="https://github.com/peachyGT/armored-core-hub/issues">Report a bug</a> ·
+  <a href="https://github.com/peachyGT/armored-core-hub/issues/new?template=bug.yml">Report a bug</a> ·
   <a href="CONTRIBUTING.md">Contribute</a>
 </p>
 
@@ -20,9 +20,11 @@ Easiest way to enjoy Armored Core.
 
 ![The Hub's library and selected-game view](docs/media/library-wide-desktop.png)
 
-Automatically and easily install literally any game in the series. No more messing around with emulators. The Hub covers PlayStation, PlayStation 2, PSP, PlayStation 3 and Xbox 360 editions through DuckStation, PCSX2, PPSSPP, RPCS3 and Xenia Canary.
+Add your Armored Core games and let the Hub handle emulator setup for you. It automatically downloads, installs and configures DuckStation, PCSX2, PPSSPP, RPCS3 and Xenia Canary for the supported PlayStation, PlayStation 2, PSP, PlayStation 3 and Xbox 360 editions.
 
-**This is an early preview.** So far, I've confirmed that all games launch and work at stable framerates on my machines; full back to back game completion isn't 100% confirmed yet. See the [feature matrix](docs/feature-matrix.md) and [known limits](BLOCKED.md) before relying on a particular feature or game. Please submit issues you're having in the issue tracker using this template. 
+**This is an early preview.** So far, the games we've tried in our autonomous harnesses launch and run at stable framerates on our test machines. Full playthroughs and every console/region edition aren't 100% confirmed yet. See [what we've tested](docs/testing/COVERAGE.md), the [feature matrix](docs/feature-matrix.md) and [known limits](BLOCKED.md).
+
+Please submit issues you're having in the [issue tracker](https://github.com/peachyGT/armored-core-hub/issues) using the [bug-report form](https://github.com/peachyGT/armored-core-hub/issues/new?template=bug.yml). Your Hub version, steps and what went wrong are enough to start; logs or screenshots help.
 
 ## What it does
 
@@ -31,44 +33,45 @@ Automatically and easily install literally any game in the series. No more messi
 - Groups the library by console or generation, with an adjustable library pane and cinematic video backgrounds when your game supports them.
 - Tracks supported native trophies and achievements, or RetroAchievements sets where available. Not every game has a set.
 - Tracks your playtime in each game.
-- Lets you edit keyboard and controller bindings by game action (Per game), with separate Default, Community, Custom and imported profiles.
-- Provides graphics settings, patch management, verified save backups and time played.
+- Lets you edit keyboard and controller bindings by game action, with separate Default, Community, Custom and imported profiles for each game.
+- Provides graphics settings, patch management and verified save backups.
 - Warns before closing a running game and stops emulator/helper processes launched by the Hub when it exits.
-
-## A look inside
-
-![A short tour of the library, controls and setup checklist](docs/media/tour.gif)
-
-The captures show the real native interface in an isolated preview copy. No game was launched to make them. Game artwork belongs to its respective owners; no game files or reusable artwork collection are included in the download.
-
-| Library across generations | Compact game view |
-| --- | --- |
-| [![A wide library view with Armored Core 2 selected](docs/media/early-generations.png)](docs/media/early-generations.png) | [![Armored Core V at a smaller window size](docs/media/compact-game.png)](docs/media/compact-game.png) |
-| Keep editions grouped while the scene fills the remaining space. | The same library and game actions adapt to a smaller window. |
-
-| Edit bindings by action | Per-game graphics settings |
-| --- | --- |
-| [![Editable keyboard action rows](docs/media/controls.png)](docs/media/controls.png) | [![Graphics presets, rendering scale and output settings](docs/media/graphics.png)](docs/media/graphics.png) |
-| Each row shows the action, game button and binding, with its own reset. | Rendering scale, window resolution and supported FPS targets stay separate. |
-
-<details>
-<summary>More screenshots: the PS2 library and setup checklist</summary>
-
-![A filtered PS2 library with Last Raven selected](docs/media/ps2-library.png)
-
-![The selected game's setup checklist](docs/media/setup.png)
-
-</details>
 
 ## How do I use this?
 
 1. Download the Windows x64 ZIP from [Releases](https://github.com/peachyGT/armored-core-hub/releases) and extract it into a writable folder.
 2. Run `ArmoredCoreHub.exe`. The package includes .NET; no separate installation is needed.
-3. Choose **Add games** and select a folder where your games are located or collection folder.
+3. Choose **Add games** and select the folder where your games are located.
 4. Follow the selected game's prompts to have the Hub install its emulator and add any required system files, then click **Play**.
 5. Enjoy!
 
-Windows 10 or 11 x64 is required. Emulator hardware requirements still apply. PS1 and PS2 need compatible BIOS dumps. ZIP and 7z BIOS imports are supported. See the [user guide](docs/usage.md) for formats, settings and troubleshooting.
+The checklist shows what's done and what your selected game still needs.
+
+[![The selected game's setup checklist](docs/media/setup.png)](docs/media/setup.png)
+
+Windows 10 or 11 x64 is required. Emulator hardware requirements still apply. PS1 and PS2 need compatible BIOS dumps; PS3 uses official system software, which the Hub can download. ZIP and 7z BIOS imports are supported. See the [user guide](docs/usage.md) for formats, settings and troubleshooting.
+
+## A look inside
+
+![A short tour of the library, controls, graphics and setup](docs/media/tour.gif)
+
+The captures show the real native interface in an isolated preview copy. No game was launched to make them. Game artwork belongs to its respective owners; no game files or reusable artwork collection are included in the download.
+
+### PS3 and Xbox 360 games
+
+[![The later console library entries with Armored Core V selected](docs/media/later-generations.png)](docs/media/later-generations.png)
+
+### Change bindings by game action
+
+[![Editable keyboard action rows with individual reset buttons](docs/media/controls.png)](docs/media/controls.png)
+
+### Graphics settings for each game
+
+[![Graphics presets, rendering scale, screen resolution and target FPS](docs/media/graphics.png)](docs/media/graphics.png)
+
+### Earlier generations
+
+[![A filtered PS2 library with Last Raven selected](docs/media/ps2-library.png)](docs/media/ps2-library.png)
 
 ## Build
 

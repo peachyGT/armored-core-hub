@@ -14,7 +14,7 @@ Players with legitimate Armored Core collections who want to play the emulation-
 Import a collection, identify its editions, provision the appropriate runtime, apply an explicit compatibility profile, and play. The accumulated game-specific knowledge is the product.
 
 ## Operating Context
-Portable Windows folder, optional external media storage, offline play after setup. Ordinary use is a desktop library with controller-based gameplay. Do not assume a controller is attached. No accounts, servers, telemetry, or registry-dependent installation.
+Portable Windows folder, optional external media storage, offline play after setup. Ordinary use is a desktop library with keyboard or controller gameplay. Do not assume a controller is attached. No Hub account, hosted server, telemetry or registry-dependent installation is required. RetroAchievements sign-in is optional.
 
 ## Capabilities and Constraints
 Separate games, editions, media, backends, builds, compatibility, enhancements, patches, extensions, saves, and artwork. Current native Windows releases are excluded. Download providers are for authorized redistributable assets and official firmware; no commercial game or proprietary BIOS discovery/download providers. Future commercial media delivery requires a separate rights-cleared provider and is not in this baseline.
@@ -35,7 +35,7 @@ The 0.3.2 refinement preserves that composition. A compact three-dot divider has
 A versioned artwork manifest maps every catalog edition to a cover or an explicit same-platform fallback. The Hub downloads selected covers to its hash-verified local cache, retaining source credits and original copyright. Regional and PSP/PS2 art remain distinct. Custom covers take priority. Offline mode and the automatic-download preference control network use; manual retry is available under Artwork. The standard package contains source metadata, not a bundled copyrighted cover set.
 
 ## Evidence on Hand
-No commercial game media, owned BIOS, gameplay test evidence, or redistributable cover-art set supplied. The user has supplied game/album artwork and UI screenshots as private design references; review prototypes may use those references without adding them to the application package. Local .NET 10.0.401 toolchain present. Research is recorded with access date and confidence in docs/research.
+Owned media and BIOS supplied for private testing remain outside source and release packages. Sampled gameplay evidence is recorded in docs/testing; it does not cover every console/region edition or full playthrough. Xbox 360 testing is limited to V and Verdict Day, as clarified by the maintainer on 2026-10-14. Presentation captures show existing game artwork inside the native UI; no reusable artwork set is bundled. Local .NET 10.0.401 toolchain present. Research is recorded with access date and confidence in docs/research.
 
 ## Product Principles
 - Evidence precedes compatibility claims.

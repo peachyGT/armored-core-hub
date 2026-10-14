@@ -1,4 +1,6 @@
 # Capability inventory
+
+Current publication: [GitHub repository](https://github.com/peachyGT/armored-core-hub), a Windows preview release and Windows build/test CI are live. User library files, BIOS, credentials, saves and local tools remain outside the uploaded source. The entries below record what was available at each earlier inspection date.
 Inspected 2026-10-09. User authorized the engineering/build/test task and sensible local Git checkpoints.
 
 | Capability | Scope / evidence |

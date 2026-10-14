@@ -1,5 +1,13 @@
 # Contributing
 
+## Report an issue
+
+Check the [issue tracker](https://github.com/peachyGT/armored-core-hub/issues), then use the [bug-report form](https://github.com/peachyGT/armored-core-hub/issues/new?template=bug.yml). It asks for your Hub version, steps and what happened. Game/setup details and screenshots or logs are optional.
+
+For a new idea, use the [feature-request form](https://github.com/peachyGT/armored-core-hub/issues/new?template=feature.yml).
+
+## Work on the Hub
+
 Keep the product specific to Armored Core. Read PRODUCT.md, DESIGN.md and the ADRs.
 
 Use .NET 10 and run scripts/build.ps1 -Test. Commercial media, BIOS, saves and private paths must never enter source fixtures, commits or packages. Tests generate synthetic ISO/SFO/XEX examples.
