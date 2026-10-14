@@ -16,7 +16,7 @@ allowed_binary = {
     "tests/Hub.Tests/fixtures/password-media.7z", "tests/Hub.Tests/fixtures/synthetic-media.7z",
 }
 patterns = {
-    "GitHub token": r"(?:ghp_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{40,})",
+    "GitHub token": r"(?:gh[pousr]_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{40,})",
     "private key": r"-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----",
     "private user path": r"[A-Z]:[/\\]+Users[/\\]+JackF(?:[/\\]|\b)",
     "removed game-download site": r"vimm\.net",

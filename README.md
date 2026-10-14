@@ -1,23 +1,24 @@
-<p align="center">
-  <img src="docs/media/wordmark.svg" alt="Armored Core Hub" width="460">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/media/compact-dark.svg">
+  <img src="docs/media/compact-light.svg" alt="Armored Core Hub" width="460">
+</picture>
 
-<p align="center">A portable Windows launcher for the earlier Armored Core games.</p>
+A portable Windows launcher for the earlier Armored Core games.
 
-<p align="center">
+<p>
   <a href="https://github.com/peachyGT/armored-core-hub/releases">Download</a> ·
   <a href="docs/usage.md">User guide</a> ·
   <a href="https://github.com/peachyGT/armored-core-hub/issues">Report a bug</a> ·
   <a href="CONTRIBUTING.md">Contribute</a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/peachyGT/armored-core-hub/actions/workflows/build.yml"><img src="https://github.com/peachyGT/armored-core-hub/actions/workflows/build.yml/badge.svg" alt="Windows build and tests"></a>
-  <a href="https://github.com/peachyGT/armored-core-hub/releases"><img src="https://img.shields.io/badge/version-0.3.10_preview-49473f?labelColor=24221e" alt="Version 0.3.10 preview"></a>
+  <a href="https://github.com/peachyGT/armored-core-hub/releases"><img src="https://img.shields.io/github/v/release/peachyGT/armored-core-hub?include_prereleases&amp;label=preview&amp;color=49473f&amp;labelColor=24221e" alt="Latest preview"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-49473f?labelColor=24221e" alt="MIT license"></a>
 </p>
 
-![The Hub's library and selected-game view](docs/media/library.png)
+![The Hub's library and selected-game view](docs/media/library-wide-desktop.png)
 
 Keep your collection, emulator setup, controls and saves in one place. The Hub covers PlayStation, PlayStation 2, PSP, PlayStation 3 and Xbox 360 editions through DuckStation, PCSX2, PPSSPP, RPCS3 and Xenia Canary.
 
@@ -33,9 +34,30 @@ Keep your collection, emulator setup, controls and saves in one place. The Hub c
 - Tracks supported native trophies and achievements, or RetroAchievements sets where available. Not every game has a set.
 - Warns before closing a running game and stops emulator/helper processes launched by the Hub when it exits.
 
+## A look inside
+
 ![A short tour of the library, controls and setup checklist](docs/media/tour.gif)
 
-The previews use the real native interface and a sample library. Game artwork belongs to its respective owners. No game files or artwork collection are included in the download.
+The captures show the real native interface in an isolated preview copy. No game was launched to make them. Game artwork belongs to its respective owners; no game files or reusable artwork collection are included in the download.
+
+| Library across generations | Compact game view |
+| --- | --- |
+| [![A wide library view with Armored Core 2 selected](docs/media/early-generations.png)](docs/media/early-generations.png) | [![Armored Core V at a smaller window size](docs/media/compact-game.png)](docs/media/compact-game.png) |
+| Keep editions grouped while the scene fills the remaining space. | The same library and game actions adapt to a smaller window. |
+
+| Edit bindings by action | Per-game graphics settings |
+| --- | --- |
+| [![Editable keyboard action rows](docs/media/controls.png)](docs/media/controls.png) | [![Graphics presets, rendering scale and output settings](docs/media/graphics.png)](docs/media/graphics.png) |
+| Each row shows the action, game button and binding, with its own reset. | Rendering scale, window resolution and supported FPS targets stay separate. |
+
+<details>
+<summary>More screenshots: the PS2 library and setup checklist</summary>
+
+![A filtered PS2 library with Last Raven selected](docs/media/ps2-library.png)
+
+![The selected game's setup checklist](docs/media/setup.png)
+
+</details>
 
 ## Get started
 
