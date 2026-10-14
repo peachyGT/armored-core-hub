@@ -55,6 +55,9 @@ Windows 10 or 11 x64 is required. Emulator hardware requirements still apply. PS
 
 ![A short tour of the library, controls, graphics and setup](docs/media/tour-v2.gif)
 
+<details>
+<summary>More screenshots</summary>
+
 ### PS3 and Xbox 360 games
 
 [![The later console library entries with Armored Core V selected](docs/media/later-generations-v2.png)](docs/media/later-generations-v2.png)
@@ -70,6 +73,8 @@ Windows 10 or 11 x64 is required. Emulator hardware requirements still apply. PS
 ### Earlier generations
 
 [![A filtered PS2 library with Last Raven selected](docs/media/ps2-library-v2.png)](docs/media/ps2-library-v2.png)
+
+</details>
 
 ## Build
 
