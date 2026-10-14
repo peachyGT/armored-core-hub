@@ -55,8 +55,6 @@ Windows 10 or 11 x64 is required. Emulator hardware requirements still apply. PS
 
 ![A short tour of the library, controls, graphics and setup](docs/media/tour-v2.gif)
 
-The captures show the real native interface in an isolated preview copy. No game was launched to make them. Game artwork belongs to its respective owners; no game files or reusable artwork collection are included in the download.
-
 ### PS3 and Xbox 360 games
 
 [![The later console library entries with Armored Core V selected](docs/media/later-generations.png)](docs/media/later-generations.png)
@@ -87,6 +85,6 @@ Tests use synthetic media. Real games, BIOS, firmware, saves and account credent
 
 Hub code is [MIT licensed](LICENSE). Fonts, libraries and other components retain their [own licenses](THIRD-PARTY-NOTICES.md).
 
-Use only game files and system dumps you are legally entitled to use. The Hub does not supply commercial games or BIOS files. Emulator binaries and PS3 firmware are not bundled. We do NOT condone or support piracy. Read the [legal notice](LEGAL.md).
+Use only game files and system dumps you are legally entitled to use. The Hub does not supply commercial games or BIOS files. Emulator binaries and PS3 firmware are not bundled. No game files or reusable artwork collection are included in the download. We do NOT condone or support piracy. Read the [legal notice](LEGAL.md). 
 
 This is an independent project, unaffiliated with FromSoftware, Bandai Namco, Sony, Microsoft or emulator authors.
