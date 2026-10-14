@@ -53,7 +53,7 @@ Windows 10 or 11 x64 is required. Emulator hardware requirements still apply. PS
 
 ## A look inside
 
-![A short tour of the library, controls, graphics and setup](docs/media/tour.gif)
+![A short tour of the library, controls, graphics and setup](docs/media/tour-v2.gif)
 
 The captures show the real native interface in an isolated preview copy. No game was launched to make them. Game artwork belongs to its respective owners; no game files or reusable artwork collection are included in the download.
 
