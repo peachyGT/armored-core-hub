@@ -20,7 +20,7 @@ Easiest way to enjoy Armored Core.
 
 ![The Hub's library and selected-game view](docs/media/library-wide-desktop.png)
 
-Automatically and easily install any game in the series. No more messing around with emulators. The Hub covers PlayStation, PlayStation 2, PSP, PlayStation 3 and Xbox 360 editions through DuckStation, PCSX2, PPSSPP, RPCS3 and Xenia Canary.
+Automatically and easily install literally any game in the series. No more messing around with emulators. The Hub covers PlayStation, PlayStation 2, PSP, PlayStation 3 and Xbox 360 editions through DuckStation, PCSX2, PPSSPP, RPCS3 and Xenia Canary.
 
 **This is an early preview.** So far, I've confirmed that all games launch and work at stable framerates on my machines; full back to back game completion isn't 100% confirmed yet. See the [feature matrix](docs/feature-matrix.md) and [known limits](BLOCKED.md) before relying on a particular feature or game. Please submit issues you're having in the issue tracker using this template. 
 
