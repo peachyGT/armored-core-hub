@@ -18,7 +18,7 @@ Easiest way to enjoy Armored Core.
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-49473f?labelColor=24221e" alt="MIT license"></a>
 </p>
 
-![The Hub's library and selected-game view](docs/media/library-wide-desktop.png)
+![The Hub's library and selected-game view](docs/media/library-wide-desktop-v2.png)
 
 Add your Armored Core games and let the Hub handle emulator setup for you. It automatically downloads, installs and configures DuckStation, PCSX2, PPSSPP, RPCS3 and Xenia Canary for the supported PlayStation, PlayStation 2, PSP, PlayStation 3 and Xbox 360 editions.
 
@@ -47,7 +47,7 @@ Please submit issues you're having in the [issue tracker](https://github.com/pea
 
 The checklist shows what's done and what your selected game still needs.
 
-[![The selected game's setup checklist](docs/media/setup.png)](docs/media/setup.png)
+[![The selected game's setup checklist](docs/media/setup-v2.png)](docs/media/setup-v2.png)
 
 Windows 10 or 11 x64 is required. Emulator hardware requirements still apply. PS1 and PS2 need compatible BIOS dumps; PS3 uses official system software, which the Hub can download. ZIP and 7z BIOS imports are supported. See the [user guide](docs/usage.md) for formats, settings and troubleshooting.
 
@@ -57,19 +57,19 @@ Windows 10 or 11 x64 is required. Emulator hardware requirements still apply. PS
 
 ### PS3 and Xbox 360 games
 
-[![The later console library entries with Armored Core V selected](docs/media/later-generations.png)](docs/media/later-generations.png)
+[![The later console library entries with Armored Core V selected](docs/media/later-generations-v2.png)](docs/media/later-generations-v2.png)
 
 ### Change bindings by game action
 
-[![Editable keyboard action rows with individual reset buttons](docs/media/controls.png)](docs/media/controls.png)
+[![Editable keyboard action rows with individual reset buttons](docs/media/controls-v2.png)](docs/media/controls-v2.png)
 
 ### Graphics settings for each game
 
-[![Graphics presets, rendering scale, screen resolution and target FPS](docs/media/graphics.png)](docs/media/graphics.png)
+[![Graphics presets, rendering scale, screen resolution and target FPS](docs/media/graphics-v2.png)](docs/media/graphics-v2.png)
 
 ### Earlier generations
 
-[![A filtered PS2 library with Last Raven selected](docs/media/ps2-library.png)](docs/media/ps2-library.png)
+[![A filtered PS2 library with Last Raven selected](docs/media/ps2-library-v2.png)](docs/media/ps2-library-v2.png)
 
 ## Build
 
