@@ -1,0 +1,35 @@
+name: Bug report
+description: Report an app, setup or launch problem.
+body:
+  - type: markdown
+    attributes:
+      value: Do not attach games, BIOS, firmware, saves, tokens or account details. Check diagnostics for private paths before sharing them.
+  - type: input
+    id: version
+    attributes:
+      label: Hub version
+      placeholder: 0.3.10
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Windows version and hardware
+      description: For graphics or launch problems, include CPU and GPU.
+  - type: input
+    id: edition
+    attributes:
+      label: Game edition and emulator build
+      description: If relevant, include console, region and product serial. Do not upload game files.
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: What happened?
+      description: Include steps, expected behavior and what you saw instead.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs or screenshots
+      description: Optional. Remove private paths and credentials first.

@@ -1,0 +1,39 @@
+name: Windows build and tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: build-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: windows-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out source
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Install .NET SDK
+        uses: actions/setup-dotnet@67a3573c9a986a3f9c594539f4ab511d57bb3ce9 # v4
+        with:
+          dotnet-version: '10.0.x'
+      - name: Build, test and publish
+        shell: pwsh
+        run: ./scripts/build.ps1 -Test -Publish
+      - name: Upload portable preview and test results
+        if: success()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: armored-core-hub-win-x64-${{ github.sha }}
+          path: |
+            outputs/ArmoredCoreHub-0.3.10/
+            work/test-results/test-results.json
+          if-no-files-found: error
+          retention-days: 7

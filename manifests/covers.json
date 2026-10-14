@@ -1,0 +1,1587 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "assets": [
+    {
+      "id": "ac1-ps1-scps45060",
+      "gameId": "ac1",
+      "platform": "ps1",
+      "region": "ASIA",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SCPS-45060.jpg",
+      "sha256": "d43fed0ee0029d84807971cd5672f59e4ade29d7bb9cecf8fcf170e6e738428d",
+      "width": 500,
+      "height": 500,
+      "bytes": 33213,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac1-ps1-sces00842",
+      "gameId": "ac1",
+      "platform": "ps1",
+      "region": "EU",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SCES-00842.jpg",
+      "sha256": "53a4aac676708adcc02bcc691bc2ce062924cc7d515bd18f2f47a133a23d386e",
+      "width": 500,
+      "height": 500,
+      "bytes": 59692,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac1-ps1-slps00900",
+      "gameId": "ac1",
+      "platform": "ps1",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SLPS-00900.jpg",
+      "sha256": "f561621b825e7ba9d620fb50118c1bc1a0f6b3ec7725d8bd3b3d50b25ca4f3d9",
+      "width": 500,
+      "height": 500,
+      "bytes": 39515,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac1-ps1-scus94182",
+      "gameId": "ac1",
+      "platform": "ps1",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SCUS-94182.jpg",
+      "sha256": "e4225304eaa5da3926ab887c5fb796640fa1af44f0aeb9880faf3341983c4f4f",
+      "width": 500,
+      "height": 500,
+      "bytes": 54406,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac1-ps1-slus01323",
+      "gameId": "ac1",
+      "platform": "ps1",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SLUS-01323.jpg",
+      "sha256": "b87c394cb92a21a950dbc04aec3c64d8657afff4441629d52d13a58fd900c16f",
+      "width": 500,
+      "height": 500,
+      "bytes": 106914,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acmoa-ps1-slps01855",
+      "gameId": "acmoa",
+      "platform": "ps1",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SLPS-01855.jpg",
+      "sha256": "53cc8d5052c23a649d8a27e7f4cc0e0e05ec1b3345e0c8e4711b0fbbb8701182",
+      "width": 500,
+      "height": 512,
+      "bytes": 52012,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acmoa-ps1-slps91444",
+      "gameId": "acmoa",
+      "platform": "ps1",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SLPS-91444.jpg",
+      "sha256": "bf5c9ac56fcf49729bd980b3daa5c9f7523335e3710e003f99cc3bba54522629",
+      "width": 500,
+      "height": 500,
+      "bytes": 62310,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acmoa-ps1-slps01856",
+      "gameId": "acmoa",
+      "platform": "ps1",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SLPS-01856.jpg",
+      "sha256": "53cc8d5052c23a649d8a27e7f4cc0e0e05ec1b3345e0c8e4711b0fbbb8701182",
+      "width": 500,
+      "height": 512,
+      "bytes": 52012,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acmoa-ps1-slps91445",
+      "gameId": "acmoa",
+      "platform": "ps1",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SLPS-91445.jpg",
+      "sha256": "bf5c9ac56fcf49729bd980b3daa5c9f7523335e3710e003f99cc3bba54522629",
+      "width": 500,
+      "height": 500,
+      "bytes": 62310,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acmoa-ps1-slus01030",
+      "gameId": "acmoa",
+      "platform": "ps1",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SLUS-01030.jpg",
+      "sha256": "9471a953d31be1dd6f01337cbd887c32600373f72c4feca0b920a62db3304c6a",
+      "width": 500,
+      "height": 500,
+      "bytes": 52278,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acmoa-ps1-slus01081",
+      "gameId": "acmoa",
+      "platform": "ps1",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SLUS-01081.jpg",
+      "sha256": "9471a953d31be1dd6f01337cbd887c32600373f72c4feca0b920a62db3304c6a",
+      "width": 500,
+      "height": 500,
+      "bytes": 52278,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acpp-ps1-slps01130",
+      "gameId": "acpp",
+      "platform": "ps1",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SLPS-01130.jpg",
+      "sha256": "bffa90fb34517db55b6bce5a58c2ea4913cc16ebd12a03a5b71d387bf91157e8",
+      "width": 500,
+      "height": 500,
+      "bytes": 47318,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acpp-ps1-slps91110",
+      "gameId": "acpp",
+      "platform": "ps1",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SLPS-91110.jpg",
+      "sha256": "6dd2c9fd94b771f0e1cc150b98529496a27bd1c296f4f55cac2eef7daa4d2853",
+      "width": 500,
+      "height": 500,
+      "bytes": 36391,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acpp-ps1-slus00670",
+      "gameId": "acpp",
+      "platform": "ps1",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SLUS-00670.jpg",
+      "sha256": "76f3ed381073859631eb3e9c05c539de3cd5688294122e399ba4ea52e6cfa922",
+      "width": 500,
+      "height": 500,
+      "bytes": 37952,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac1-ps1-slps91402",
+      "gameId": "ac1",
+      "platform": "ps1",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/psx-covers/2cf4ba0b378f0f18e09783e7e48eb26f0bb6f0fd/covers/default/SLPS-91402.jpg",
+      "sha256": "b125f014bd0bbe133cc0c4366e4dc79e17f749922f23b7bbc585f5e22e0b33e7",
+      "width": 500,
+      "height": 500,
+      "bytes": 51990,
+      "credit": "xlenore/psx-covers",
+      "sourceUrl": "https://github.com/xlenore/psx-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acsl-ps2-scaj20011",
+      "gameId": "acsl",
+      "platform": "ps2",
+      "region": "ASIA",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SCAJ-20011.jpg",
+      "sha256": "806629be52b0647c8667fdffb8744b34f61532f4f67cc0bee91e4f8671e86ebe",
+      "width": 512,
+      "height": 736,
+      "bytes": 74386,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acff-ps2-scaj20121",
+      "gameId": "acff",
+      "platform": "ps2",
+      "region": "ASIA",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SCAJ-20121.jpg",
+      "sha256": "f2e351be0e69b3c8b955fbc4d049f4a8875b872e0faa3fc90166922ae23e2894",
+      "width": 512,
+      "height": 736,
+      "bytes": 79821,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "aclr-ps2-scaj20143",
+      "gameId": "aclr",
+      "platform": "ps2",
+      "region": "ASIA",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SCAJ-20143.jpg",
+      "sha256": "f0b105aeb99ca05af923f300f0cbb3b6ce34f0159c50fe5d0589b352f4ade3ba",
+      "width": 512,
+      "height": 736,
+      "bytes": 71527,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac2aa-ps2-sccs40011",
+      "gameId": "ac2aa",
+      "platform": "ps2",
+      "region": "ASIA",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SCCS-40011.jpg",
+      "sha256": "80640b1f6a50a2f6173c608486b7ed04ea73ca07b255600050aed8edc27eec96",
+      "width": 512,
+      "height": 736,
+      "bytes": 105811,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acnb-ps2-scka20047",
+      "gameId": "acnb",
+      "platform": "ps2",
+      "region": "ASIA",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SCKA-20047.jpg",
+      "sha256": "a0fac18fb20e701131a1ea48d32e6ea35f8851a6eaa2b295fc0b8a1e57e9ac81",
+      "width": 512,
+      "height": 736,
+      "bytes": 93192,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac2-ps2-sles50079",
+      "gameId": "ac2",
+      "platform": "ps2",
+      "region": "EU",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLES-50079.jpg",
+      "sha256": "2cd8bebe03d9b0fcb3b8e2b32335e96675158ae07920dc9683acf40091f7997c",
+      "width": 512,
+      "height": 736,
+      "bytes": 144033,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac2aa-ps2-sles50905",
+      "gameId": "ac2aa",
+      "platform": "ps2",
+      "region": "EU",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLES-50905.jpg",
+      "sha256": "d32fb5d630356536bc49b8ad0bd59e7967da50aa60f19856e53325c8bc48bb01",
+      "width": 512,
+      "height": 736,
+      "bytes": 119867,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac3-ps2-sles51399",
+      "gameId": "ac3",
+      "platform": "ps2",
+      "region": "EU",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLES-51399.jpg",
+      "sha256": "d3fd7d38b2785039a7f89d168801053656f543d08e6d007764f0ad08f6be3173",
+      "width": 512,
+      "height": 736,
+      "bytes": 201725,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acsl-ps2-sles52203",
+      "gameId": "acsl",
+      "platform": "ps2",
+      "region": "EU",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLES-52203.jpg",
+      "sha256": "78856034b27d20e9d39ce629af6a77896510e4cca0edbc05e895ccf7b530b13d",
+      "width": 512,
+      "height": 736,
+      "bytes": 121287,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acnb-ps2-sles53819",
+      "gameId": "acnb",
+      "platform": "ps2",
+      "region": "EU",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLES-53819.jpg",
+      "sha256": "ee9fdc80063a17c812ca46869fecd27af0e191a80e0ce2b24e6b1130a7e4f532",
+      "width": 512,
+      "height": 736,
+      "bytes": 116633,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "aclr-ps2-sles53820",
+      "gameId": "aclr",
+      "platform": "ps2",
+      "region": "EU",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLES-53820.jpg",
+      "sha256": "3fccf790e9528425ff1ce69ea67f5b18404f1631347a65754c5df03757808939",
+      "width": 512,
+      "height": 736,
+      "bytes": 111191,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acn-ps2-sles82036",
+      "gameId": "acn",
+      "platform": "ps2",
+      "region": "EU",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLES-82036.jpg",
+      "sha256": "0d44f6a98ed3337bee1d01282d3ec791b1054e43d8591ab3d740bb6b441a5263",
+      "width": 512,
+      "height": 736,
+      "bytes": 51832,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acn-ps2-sles82037",
+      "gameId": "acn",
+      "platform": "ps2",
+      "region": "EU",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLES-82037.jpg",
+      "sha256": "0d44f6a98ed3337bee1d01282d3ec791b1054e43d8591ab3d740bb6b441a5263",
+      "width": 512,
+      "height": 736,
+      "bytes": 51832,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acsl-ps2-slka25041",
+      "gameId": "acsl",
+      "platform": "ps2",
+      "region": "ASIA",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLKA-25041.jpg",
+      "sha256": "806629be52b0647c8667fdffb8744b34f61532f4f67cc0bee91e4f8671e86ebe",
+      "width": 512,
+      "height": 736,
+      "bytes": 74386,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acn-ps2-slka25201",
+      "gameId": "acn",
+      "platform": "ps2",
+      "region": "ASIA",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLKA-25201.jpg",
+      "sha256": "cd95867c4f1ef2711e99e9befde1d3b5e877df84c4c9ac3292b3d8920871104f",
+      "width": 512,
+      "height": 736,
+      "bytes": 87319,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acn-ps2-slka25202",
+      "gameId": "acn",
+      "platform": "ps2",
+      "region": "ASIA",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLKA-25202.jpg",
+      "sha256": "cd95867c4f1ef2711e99e9befde1d3b5e877df84c4c9ac3292b3d8920871104f",
+      "width": 512,
+      "height": 736,
+      "bytes": 87319,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acff-ps2-slka25270",
+      "gameId": "acff",
+      "platform": "ps2",
+      "region": "ASIA",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLKA-25270.jpg",
+      "sha256": "f2e351be0e69b3c8b955fbc4d049f4a8875b872e0faa3fc90166922ae23e2894",
+      "width": 512,
+      "height": 736,
+      "bytes": 79821,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac3-ps2-slpm67524",
+      "gameId": "ac3",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPM-67524.jpg",
+      "sha256": "2856e63e25ae6c2a7e795e22ccdbe733fec78e6672bd7d062017292e5689822e",
+      "width": 512,
+      "height": 736,
+      "bytes": 104313,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac2-ps2-slps25007",
+      "gameId": "ac2",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-25007.jpg",
+      "sha256": "748ed0edb5adfc125134ee6b2a29976f9b2682c8a14b93f0eb1da843c541938e",
+      "width": 512,
+      "height": 736,
+      "bytes": 78041,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac2aa-ps2-slps25040",
+      "gameId": "ac2aa",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-25040.jpg",
+      "sha256": "6f98456498ed8a877f7feaa4cfd83c3e299bcd6366db5c1f603bf3676c75e48f",
+      "width": 512,
+      "height": 736,
+      "bytes": 86981,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac3-ps2-slps25112",
+      "gameId": "ac3",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-25112.jpg",
+      "sha256": "0d3ed3795167b9fd1bd4f57e095df19789965679415f507f33c8a30d64f40b16",
+      "width": 512,
+      "height": 736,
+      "bytes": 149063,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acsl-ps2-slps25169",
+      "gameId": "acsl",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-25169.jpg",
+      "sha256": "3b6ba25dc3835c9f3148ac35f0df8c9462ec164091dae20fca087ff355e0ffcd",
+      "width": 512,
+      "height": 736,
+      "bytes": 80116,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acn-ps2-slps25338",
+      "gameId": "acn",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-25338.jpg",
+      "sha256": "deada167939017fc7b4febb4bc50f06c833883bf4fadb0174403e40b4da65ee9",
+      "width": 512,
+      "height": 736,
+      "bytes": 90884,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acn-ps2-slps25339",
+      "gameId": "acn",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-25339.jpg",
+      "sha256": "deada167939017fc7b4febb4bc50f06c833883bf4fadb0174403e40b4da65ee9",
+      "width": 512,
+      "height": 736,
+      "bytes": 90884,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acnb-ps2-slps25408",
+      "gameId": "acnb",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-25408.jpg",
+      "sha256": "957bb68e8e62acdd5670ed8a0e8d96e76f2368931998b441999e4ddf4e2e860a",
+      "width": 512,
+      "height": 736,
+      "bytes": 85656,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acff-ps2-slps25461",
+      "gameId": "acff",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-25461.jpg",
+      "sha256": "e758aefce93d8338d7f2c2f3fd2bea99857f14d8e6268d7d55ff4b760ec29e1b",
+      "width": 512,
+      "height": 736,
+      "bytes": 138507,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "aclr-ps2-slps25462",
+      "gameId": "aclr",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-25462.jpg",
+      "sha256": "583e69fc7fa211694c4eddefe69bb9725292d52917a76b83d08b31123d52777b",
+      "width": 512,
+      "height": 736,
+      "bytes": 75625,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "aclr-ps2-slps25730",
+      "gameId": "aclr",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-25730.jpg",
+      "sha256": "97f2284d3d5b0f42183b54b22b42b3202cd24affc49f83641990d9d3402040d9",
+      "width": 512,
+      "height": 736,
+      "bytes": 58616,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acn-ps2-slps73202",
+      "gameId": "acn",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-73202.jpg",
+      "sha256": "1f0c91d67cb29dacefcfc3db9b3c5a6955468546aba82dec5b9119a2c4ca65df",
+      "width": 512,
+      "height": 736,
+      "bytes": 67305,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acn-ps2-slps73203",
+      "gameId": "acn",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-73203.jpg",
+      "sha256": "2a604e631a27567b79694517e7fee726a456ab0ee25e5a7bfc360d5792ca2f89",
+      "width": 512,
+      "height": 736,
+      "bytes": 91498,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "aclr-ps2-slps73247",
+      "gameId": "aclr",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-73247.jpg",
+      "sha256": "1544044cfb285197a2967ea4330d4db9ddd0e976894769cebbb448c4568c93a7",
+      "width": 512,
+      "height": 736,
+      "bytes": 78459,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac2-ps2-slps73403",
+      "gameId": "ac2",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-73403.jpg",
+      "sha256": "ab84e656e1901efd5462613ebc6ce4427a8a2da2ff5f105913c1a78bcb4f08bf",
+      "width": 512,
+      "height": 736,
+      "bytes": 76226,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac2aa-ps2-slps73411",
+      "gameId": "ac2aa",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-73411.jpg",
+      "sha256": "9f6c09ca220f727e2966a075e1d863df09c3735b0fe75ffa93ef01e7959187f3",
+      "width": 512,
+      "height": 736,
+      "bytes": 77096,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac3-ps2-slps73417",
+      "gameId": "ac3",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-73417.jpg",
+      "sha256": "729cbf2a749153ab5f22080f281ffb032ed7be941783c877c976c7e634bd0c6a",
+      "width": 512,
+      "height": 736,
+      "bytes": 95710,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acsl-ps2-slps73420",
+      "gameId": "acsl",
+      "platform": "ps2",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLPS-73420.jpg",
+      "sha256": "6c8399d6aa87ad844fc0827ccb40659491d7a64082115250aae18dfeb4087736",
+      "width": 512,
+      "height": 736,
+      "bytes": 75662,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac2-ps2-slus20014",
+      "gameId": "ac2",
+      "platform": "ps2",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLUS-20014.jpg",
+      "sha256": "7ae9beb496a28ebfdc1d01d46f9f994b4a8845fd15433362c501b0a0b4f31e3a",
+      "width": 512,
+      "height": 736,
+      "bytes": 168649,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac2aa-ps2-slus20249",
+      "gameId": "ac2aa",
+      "platform": "ps2",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLUS-20249.jpg",
+      "sha256": "e6d4a02e8da337fed30c7ac3593ad7fac56726a2c93c61cbf6ff18215e929799",
+      "width": 512,
+      "height": 726,
+      "bytes": 115298,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac3-ps2-slus20435",
+      "gameId": "ac3",
+      "platform": "ps2",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLUS-20435.jpg",
+      "sha256": "27f225fdc1fe6f300d0c80e5b9f0c8049462589bc32c845603f66f6cbe39a85d",
+      "width": 512,
+      "height": 736,
+      "bytes": 121390,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acsl-ps2-slus20644",
+      "gameId": "acsl",
+      "platform": "ps2",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLUS-20644.jpg",
+      "sha256": "bfcc77680bf6c884e9c58840d9a7e0ed59f21c272ceb4639196e27cadd1f6933",
+      "width": 512,
+      "height": 736,
+      "bytes": 136642,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acn-ps2-slus20986",
+      "gameId": "acn",
+      "platform": "ps2",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLUS-20986.jpg",
+      "sha256": "561f5945ac46b3cbe44f00b9faca976ff267e6c8a72d26acb3544cab9c921396",
+      "width": 512,
+      "height": 736,
+      "bytes": 57000,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acn-ps2-slus21079",
+      "gameId": "acn",
+      "platform": "ps2",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLUS-21079.jpg",
+      "sha256": "561f5945ac46b3cbe44f00b9faca976ff267e6c8a72d26acb3544cab9c921396",
+      "width": 512,
+      "height": 736,
+      "bytes": 57000,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acnb-ps2-slus21200",
+      "gameId": "acnb",
+      "platform": "ps2",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLUS-21200.jpg",
+      "sha256": "771b7f3679686bac36d699745f27a5051df17ee25218e13ffd7de536a1461f57",
+      "width": 512,
+      "height": 736,
+      "bytes": 199611,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "aclr-ps2-slus21338",
+      "gameId": "aclr",
+      "platform": "ps2",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xlenore/ps2-covers/08a8734ee31aca74a7471425f73384f16e29ecbc/covers/default/SLUS-21338.jpg",
+      "sha256": "006ac3d52f92bd164c8522df07430c3652890b1690ee8c1c929c98363747ab44",
+      "width": 512,
+      "height": 736,
+      "bytes": 116258,
+      "credit": "xlenore/ps2-covers",
+      "sourceUrl": "https://github.com/xlenore/ps2-covers",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac3-psp-uljm05492",
+      "gameId": "ac3",
+      "platform": "psp",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/caa8a7f67f63ebaa470135edaa19366fd05731e8/Named_Boxarts/Armored%20Core%203%20Portable%20%28Japan%29%20%28v1.02%29.png",
+      "sha256": "46b4440b18cfcefa427df906cac817a2b51d4d7d353c01a8eabfe732cff5d76b",
+      "width": 512,
+      "height": 880,
+      "bytes": 692268,
+      "credit": "Libretro thumbnails",
+      "sourceUrl": "https://github.com/libretro-thumbnails/Sony_-_PlayStation_Portable",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acsl-psp-uljm05552",
+      "gameId": "acsl",
+      "platform": "psp",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/caa8a7f67f63ebaa470135edaa19366fd05731e8/Named_Boxarts/Armored%20Core%20-%20Silent%20Line%20Portable%20%28Japan%29%20%28v1.01%29.png",
+      "sha256": "b08cb121690b18b5c484026ed98d12dd77977060c3c1c32f94ce77e594cda6af",
+      "width": 512,
+      "height": 882,
+      "bytes": 695391,
+      "credit": "Libretro thumbnails",
+      "sourceUrl": "https://github.com/libretro-thumbnails/Sony_-_PlayStation_Portable",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "aclr-psp-uljm05611",
+      "gameId": "aclr",
+      "platform": "psp",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/caa8a7f67f63ebaa470135edaa19366fd05731e8/Named_Boxarts/Armored%20Core%20-%20Last%20Raven%20Portable%20%28Japan%29%20%28v1.02%29.png",
+      "sha256": "3a205ea74ada74e4a4b9f102f3fdeaca3a246d855a70a20e1f2b3ff07bb04fe9",
+      "width": 512,
+      "height": 879,
+      "bytes": 649748,
+      "credit": "Libretro thumbnails",
+      "sourceUrl": "https://github.com/libretro-thumbnails/Sony_-_PlayStation_Portable",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acff-psp-ulus10034",
+      "gameId": "acff",
+      "platform": "psp",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/caa8a7f67f63ebaa470135edaa19366fd05731e8/Named_Boxarts/Armored%20Core%20-%20Formula%20Front%20Extreme%20Battle%20%28USA%29.png",
+      "sha256": "c221c51ba4cfea8e8442fd843f6e894b694fb12320892d3c1e45ebfdd5dbca27",
+      "width": 512,
+      "height": 878,
+      "bytes": 664160,
+      "credit": "Libretro thumbnails",
+      "sourceUrl": "https://github.com/libretro-thumbnails/Sony_-_PlayStation_Portable",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acff-psp-ules00219",
+      "gameId": "acff",
+      "platform": "psp",
+      "region": "EU",
+      "uri": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/caa8a7f67f63ebaa470135edaa19366fd05731e8/Named_Boxarts/Armored%20Core%20-%20Formula%20Front%20-%20Extreme%20Battle%20%28Europe%29%20%28v1.02%29.png",
+      "sha256": "2c3635e8ca6ae381c4550467686338ece1e576806691ce7c3aba95088ea70080",
+      "width": 512,
+      "height": 886,
+      "bytes": 671503,
+      "credit": "Libretro thumbnails",
+      "sourceUrl": "https://github.com/libretro-thumbnails/Sony_-_PlayStation_Portable",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acff-psp-uljs19001",
+      "gameId": "acff",
+      "platform": "psp",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/caa8a7f67f63ebaa470135edaa19366fd05731e8/Named_Boxarts/Armored%20Core%20-%20Formula%20Front%20Extreme%20Battle%20%28Japan%29.png",
+      "sha256": "0b4d43a1ad34b6a80e348c05eb45c4f4068a12c2c617edaebb79a15102855835",
+      "width": 512,
+      "height": 876,
+      "bytes": 650339,
+      "credit": "Libretro thumbnails",
+      "sourceUrl": "https://github.com/libretro-thumbnails/Sony_-_PlayStation_Portable",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac4-ps3-bles00039",
+      "gameId": "ac4",
+      "platform": "ps3",
+      "region": "EU",
+      "uri": "https://art.gametdb.com/ps3/coverM/EN/BLES00039.jpg",
+      "sha256": "81e0573c006f8610b3d4e20662052299b80fb047d671c1f241e5a7f87d95a4f3",
+      "width": 350,
+      "height": 408,
+      "bytes": 104756,
+      "credit": "GameTDB",
+      "sourceUrl": "https://www.gametdb.com/PS3/BLES00039",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac4-ps3-blus30027",
+      "gameId": "ac4",
+      "platform": "ps3",
+      "region": "US",
+      "uri": "https://art.gametdb.com/ps3/coverM/US/BLUS30027.jpg",
+      "sha256": "86b4be57354f8c519417f090b9cff6e784c4d67885e12c476ff2d2f886eb3716",
+      "width": 350,
+      "height": 408,
+      "bytes": 68257,
+      "credit": "GameTDB",
+      "sourceUrl": "https://www.gametdb.com/PS3/BLUS30027",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acfa-ps3-bles00370",
+      "gameId": "acfa",
+      "platform": "ps3",
+      "region": "EU",
+      "uri": "https://art.gametdb.com/ps3/coverM/EN/BLES00370.jpg",
+      "sha256": "908fac377dcf32274fe8adfbe74d41a0eda92622c9e29ed62174885dba2a12df",
+      "width": 350,
+      "height": 408,
+      "bytes": 79950,
+      "credit": "GameTDB",
+      "sourceUrl": "https://www.gametdb.com/PS3/BLES00370",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acfa-ps3-blus30187",
+      "gameId": "acfa",
+      "platform": "ps3",
+      "region": "US",
+      "uri": "https://art.gametdb.com/ps3/coverM/US/BLUS30187.jpg",
+      "sha256": "1a235f867d9ce822c45bd66e20895997d5d6b7d942b759a241a60bc5fc46e34d",
+      "width": 350,
+      "height": 408,
+      "bytes": 72102,
+      "credit": "GameTDB",
+      "sourceUrl": "https://www.gametdb.com/PS3/BLUS30187",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acv-ps3-bles01440",
+      "gameId": "acv",
+      "platform": "ps3",
+      "region": "EU",
+      "uri": "https://art.gametdb.com/ps3/coverM/EN/BLES01440.jpg",
+      "sha256": "2f5bd863ee695e2790bb49e15320302a7cb9f29f663d6e76a7752f7af9ac79d4",
+      "width": 350,
+      "height": 408,
+      "bytes": 401103,
+      "credit": "GameTDB",
+      "sourceUrl": "https://www.gametdb.com/PS3/BLES01440",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acv-ps3-blus30516",
+      "gameId": "acv",
+      "platform": "ps3",
+      "region": "US",
+      "uri": "https://art.gametdb.com/ps3/coverM/US/BLUS30516.jpg",
+      "sha256": "c4b3bb59fb2d916935a004ca6335412b70c8a6c0381d24d8a413d363b8cf5c36",
+      "width": 350,
+      "height": 408,
+      "bytes": 57696,
+      "credit": "GameTDB",
+      "sourceUrl": "https://www.gametdb.com/PS3/BLUS30516",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acvd-ps3-bles01898",
+      "gameId": "acvd",
+      "platform": "ps3",
+      "region": "EU",
+      "uri": "https://art.gametdb.com/ps3/coverM/EN/BLES01898.jpg",
+      "sha256": "233a9fbd007d554acdcaba375bd7e0265d7e508aecf982a9db3d6909c967ea28",
+      "width": 350,
+      "height": 408,
+      "bytes": 69340,
+      "credit": "GameTDB",
+      "sourceUrl": "https://www.gametdb.com/PS3/BLES01898",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acvd-ps3-blus31194",
+      "gameId": "acvd",
+      "platform": "ps3",
+      "region": "US",
+      "uri": "https://art.gametdb.com/ps3/coverM/US/BLUS31194.jpg",
+      "sha256": "a70a929efde6e42c899cc128c9ee19672c7bf142149f8678bd3923a55ef8c3a5",
+      "width": 350,
+      "height": 408,
+      "bytes": 54261,
+      "credit": "GameTDB",
+      "sourceUrl": "https://www.gametdb.com/PS3/BLUS31194",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acfa-ps3-bljm60066",
+      "gameId": "acfa",
+      "platform": "ps3",
+      "region": "JP",
+      "uri": "https://art.gametdb.com/ps3/coverM/JA/BLJM60066.jpg",
+      "sha256": "38ed8c5e1ff91f3d136863baf6d1b2b0086a33f0f820181851a0b4cb54d430a3",
+      "width": 350,
+      "height": 408,
+      "bytes": 51210,
+      "credit": "GameTDB",
+      "sourceUrl": "https://www.gametdb.com/PS3/BLJM60066",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acv-ps3-bljm60378",
+      "gameId": "acv",
+      "platform": "ps3",
+      "region": "JP",
+      "uri": "https://art.gametdb.com/ps3/coverM/JA/BLJM60378.jpg",
+      "sha256": "72d3cc8ff242cb8800ed54e5f724fb224dfc9a3be82777939d6498a62b9880b5",
+      "width": 350,
+      "height": 408,
+      "bytes": 47246,
+      "credit": "GameTDB",
+      "sourceUrl": "https://www.gametdb.com/PS3/BLJM60378",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acvd-ps3-bljm61014",
+      "gameId": "acvd",
+      "platform": "ps3",
+      "region": "JP",
+      "uri": "https://art.gametdb.com/ps3/coverM/JA/BLJM61014.jpg",
+      "sha256": "3151941b0ed73cf4a6a23b80e643fd2131abd7dda0cb191a3e66683d4b9df4df",
+      "width": 350,
+      "height": 408,
+      "bytes": 51904,
+      "credit": "GameTDB",
+      "sourceUrl": "https://www.gametdb.com/PS3/BLJM61014",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac4-ps3-bljm60012",
+      "gameId": "ac4",
+      "platform": "ps3",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/aldostools/Resources/dcec207de9de550c1192420df16cc7e86957f942/COV/BLJM60012.JPG",
+      "sha256": "5f1af1fc685ce4b40b479efd69cf33a115f78809856f5babf024605cf4ec25f1",
+      "width": 260,
+      "height": 300,
+      "bytes": 17954,
+      "credit": "aldostools covers",
+      "sourceUrl": "https://github.com/aldostools/Resources",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac4-x360-465307d6-jp",
+      "gameId": "ac4",
+      "platform": "x360",
+      "region": "JP",
+      "uri": "https://images.launchbox-app.com/r2_58849678-bc5e-4375-affd-bc405c031b74.jpg",
+      "sha256": "a12a55b2a368d8c504f9ca161b46e587d5db5372efd563400110e923e4aaa5b0",
+      "width": 500,
+      "height": 713,
+      "bytes": 55784,
+      "credit": "LaunchBox Games Database",
+      "sourceUrl": "https://gamesdb.launchbox-app.com/games/images/6844-armored-core-4",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "ac4-x360-465307d6-us",
+      "gameId": "ac4",
+      "platform": "x360",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xenia-manager/x360db/43b5de9ba4f0d64eb5181d362efef2f0c58b7f11/titles/465307D6/artwork/boxart.jpg",
+      "sha256": "c6a2c7e13ee59957409b9f26fece3e8f898f640a07bd3b0e2fe2548850db590c",
+      "width": 219,
+      "height": 300,
+      "bytes": 84760,
+      "credit": "Xenia Manager / x360db",
+      "sourceUrl": "https://github.com/xenia-manager/x360db/tree/43b5de9ba4f0d64eb5181d362efef2f0c58b7f11/titles/465307D6",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acfa-x360-465307da-us",
+      "gameId": "acfa",
+      "platform": "x360",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xenia-manager/x360db/43b5de9ba4f0d64eb5181d362efef2f0c58b7f11/titles/465307DA/artwork/boxart.jpg",
+      "sha256": "3450098656c8fa69310c74383b2d22556dc3812da27b201b679e2f880f8efff6",
+      "width": 219,
+      "height": 300,
+      "bytes": 66023,
+      "credit": "Xenia Manager / x360db",
+      "sourceUrl": "https://github.com/xenia-manager/x360db/tree/43b5de9ba4f0d64eb5181d362efef2f0c58b7f11/titles/465307DA",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acv-x360-4e4d084f-us",
+      "gameId": "acv",
+      "platform": "x360",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xenia-manager/x360db/43b5de9ba4f0d64eb5181d362efef2f0c58b7f11/titles/4E4D084F/artwork/boxart.jpg",
+      "sha256": "7b5efb1bebf6463f09bc6ce0db2fe0758306313d3c8c1d642298f4c029263b6b",
+      "width": 219,
+      "height": 300,
+      "bytes": 62431,
+      "credit": "Xenia Manager / x360db",
+      "sourceUrl": "https://github.com/xenia-manager/x360db/tree/43b5de9ba4f0d64eb5181d362efef2f0c58b7f11/titles/4E4D084F",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acv-x360-4e4d084f-jp",
+      "gameId": "acv",
+      "platform": "x360",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xenia-manager/x360db/43b5de9ba4f0d64eb5181d362efef2f0c58b7f11/titles/465307DF/artwork/boxart.jpg",
+      "sha256": "153cadab7408da27a2eed3dab490a805645287d12e47c6ba62e3b6bf31ce0de1",
+      "width": 219,
+      "height": 300,
+      "bytes": 62549,
+      "credit": "Xenia Manager / x360db",
+      "sourceUrl": "https://github.com/xenia-manager/x360db/tree/43b5de9ba4f0d64eb5181d362efef2f0c58b7f11/titles/465307DF",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acvd-x360-4e4d0864-us",
+      "gameId": "acvd",
+      "platform": "x360",
+      "region": "US",
+      "uri": "https://raw.githubusercontent.com/xenia-manager/x360db/43b5de9ba4f0d64eb5181d362efef2f0c58b7f11/titles/4E4D0864/artwork/boxart.jpg",
+      "sha256": "61efa094aab820b41b9b3876e47a20ec2cf6e9890780a16c3cbf5006a2184dd9",
+      "width": 219,
+      "height": 300,
+      "bytes": 62535,
+      "credit": "Xenia Manager / x360db",
+      "sourceUrl": "https://github.com/xenia-manager/x360db/tree/43b5de9ba4f0d64eb5181d362efef2f0c58b7f11/titles/4E4D0864",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    },
+    {
+      "id": "acvd-x360-4e4d0864-jp",
+      "gameId": "acvd",
+      "platform": "x360",
+      "region": "JP",
+      "uri": "https://raw.githubusercontent.com/xenia-manager/x360db/43b5de9ba4f0d64eb5181d362efef2f0c58b7f11/titles/465307E3/artwork/boxart.jpg",
+      "sha256": "99f8241cc5783ce45732a6ac951d42d4d3d8f55be928f9ba2aae9cbdc67bd478",
+      "width": 219,
+      "height": 300,
+      "bytes": 49829,
+      "credit": "Xenia Manager / x360db",
+      "sourceUrl": "https://github.com/xenia-manager/x360db/tree/43b5de9ba4f0d64eb5181d362efef2f0c58b7f11/titles/465307E3",
+      "usage": "Local library identification; copyright retained by original owners. Provider credits and use notes: docs/research/cover-art.md"
+    }
+  ],
+  "editions": [
+    {
+      "editionId": "ac1-ps1-scps45060",
+      "assetId": "ac1-ps1-scps45060"
+    },
+    {
+      "editionId": "ac1-ps1-sces00842",
+      "assetId": "ac1-ps1-sces00842"
+    },
+    {
+      "editionId": "ac1-ps1-slps00900",
+      "assetId": "ac1-ps1-slps00900"
+    },
+    {
+      "editionId": "ac1-ps1-slps03581",
+      "fallbackEditionId": "ac1-ps1-slps00900",
+      "note": "Original JP release cover; an exact scan for this disc, reissue or trial is not yet available."
+    },
+    {
+      "editionId": "ac1-ps1-scus94182",
+      "assetId": "ac1-ps1-scus94182"
+    },
+    {
+      "editionId": "ac1-ps1-slus01323",
+      "assetId": "ac1-ps1-slus01323"
+    },
+    {
+      "editionId": "acmoa-ps1-slps01855",
+      "assetId": "acmoa-ps1-slps01855"
+    },
+    {
+      "editionId": "acmoa-ps1-slps91444",
+      "assetId": "acmoa-ps1-slps91444"
+    },
+    {
+      "editionId": "acmoa-ps1-slps01856",
+      "assetId": "acmoa-ps1-slps01856"
+    },
+    {
+      "editionId": "acmoa-ps1-slps91445",
+      "assetId": "acmoa-ps1-slps91445"
+    },
+    {
+      "editionId": "acmoa-ps1-slus01030",
+      "assetId": "acmoa-ps1-slus01030"
+    },
+    {
+      "editionId": "acmoa-ps1-slus01081",
+      "assetId": "acmoa-ps1-slus01081"
+    },
+    {
+      "editionId": "acpp-ps1-slps01130",
+      "assetId": "acpp-ps1-slps01130"
+    },
+    {
+      "editionId": "acpp-ps1-slps91110",
+      "assetId": "acpp-ps1-slps91110"
+    },
+    {
+      "editionId": "acpp-ps1-slus00670",
+      "assetId": "acpp-ps1-slus00670"
+    },
+    {
+      "editionId": "ac1-ps1-slps91402",
+      "assetId": "ac1-ps1-slps91402"
+    },
+    {
+      "editionId": "acsl-ps2-scaj20011",
+      "assetId": "acsl-ps2-scaj20011"
+    },
+    {
+      "editionId": "acn-ps2-scaj20076",
+      "fallbackEditionId": "acn-ps2-slka25201",
+      "note": "Original ASIA release cover; an exact scan for this disc, reissue or trial is not yet available."
+    },
+    {
+      "editionId": "acn-ps2-scaj20077",
+      "fallbackEditionId": "acn-ps2-slka25201",
+      "note": "Original ASIA release cover; an exact scan for this disc, reissue or trial is not yet available."
+    },
+    {
+      "editionId": "acnb-ps2-scaj20105",
+      "fallbackEditionId": "acnb-ps2-scka20047",
+      "note": "Original ASIA release cover; an exact scan for this disc, reissue or trial is not yet available."
+    },
+    {
+      "editionId": "acff-ps2-scaj20121",
+      "assetId": "acff-ps2-scaj20121"
+    },
+    {
+      "editionId": "aclr-ps2-scaj20143",
+      "assetId": "aclr-ps2-scaj20143"
+    },
+    {
+      "editionId": "ac2aa-ps2-sccs40011",
+      "assetId": "ac2aa-ps2-sccs40011"
+    },
+    {
+      "editionId": "acnb-ps2-scka20047",
+      "assetId": "acnb-ps2-scka20047"
+    },
+    {
+      "editionId": "ac3-ps2-scps55014",
+      "fallbackEditionId": "ac3-ps2-slpm67524",
+      "note": "JP cover for the same game and console; this region's scan is not yet available."
+    },
+    {
+      "editionId": "ac2aa-ps2-scps55024",
+      "fallbackEditionId": "ac2aa-ps2-sccs40011",
+      "note": "Original ASIA release cover; an exact scan for this disc, reissue or trial is not yet available."
+    },
+    {
+      "editionId": "ac2-ps2-sles50079",
+      "assetId": "ac2-ps2-sles50079"
+    },
+    {
+      "editionId": "ac2aa-ps2-sles50905",
+      "assetId": "ac2aa-ps2-sles50905"
+    },
+    {
+      "editionId": "ac3-ps2-sles51399",
+      "assetId": "ac3-ps2-sles51399"
+    },
+    {
+      "editionId": "acsl-ps2-sles52203",
+      "assetId": "acsl-ps2-sles52203"
+    },
+    {
+      "editionId": "acnb-ps2-sles53819",
+      "assetId": "acnb-ps2-sles53819"
+    },
+    {
+      "editionId": "aclr-ps2-sles53820",
+      "assetId": "aclr-ps2-sles53820"
+    },
+    {
+      "editionId": "acn-ps2-sles82036",
+      "assetId": "acn-ps2-sles82036"
+    },
+    {
+      "editionId": "acn-ps2-sles82037",
+      "assetId": "acn-ps2-sles82037"
+    },
+    {
+      "editionId": "acsl-ps2-slka25041",
+      "assetId": "acsl-ps2-slka25041"
+    },
+    {
+      "editionId": "acn-ps2-slka25201",
+      "assetId": "acn-ps2-slka25201"
+    },
+    {
+      "editionId": "acn-ps2-slka25202",
+      "assetId": "acn-ps2-slka25202"
+    },
+    {
+      "editionId": "acff-ps2-slka25270",
+      "assetId": "acff-ps2-slka25270"
+    },
+    {
+      "editionId": "acsl-ps2-slka29011",
+      "fallbackEditionId": "acsl-ps2-scaj20011",
+      "note": "Original ASIA release cover; an exact scan for this disc, reissue or trial is not yet available."
+    },
+    {
+      "editionId": "aclr-ps2-slpm61118",
+      "fallbackEditionId": "aclr-ps2-slps25462",
+      "note": "Original JP release cover; an exact scan for this disc, reissue or trial is not yet available."
+    },
+    {
+      "editionId": "aclr-ps2-slpm61119",
+      "fallbackEditionId": "aclr-ps2-slps25462",
+      "note": "Original JP release cover; an exact scan for this disc, reissue or trial is not yet available."
+    },
+    {
+      "editionId": "ac3-ps2-slpm67524",
+      "assetId": "ac3-ps2-slpm67524"
+    },
+    {
+      "editionId": "aclr-ps2-slpm68520",
+      "fallbackEditionId": "aclr-ps2-slps25462",
+      "note": "Original JP release cover; an exact scan for this disc, reissue or trial is not yet available."
+    },
+    {
+      "editionId": "ac2-ps2-slps25007",
+      "assetId": "ac2-ps2-slps25007"
+    },
+    {
+      "editionId": "ac2aa-ps2-slps25040",
+      "assetId": "ac2aa-ps2-slps25040"
+    },
+    {
+      "editionId": "ac3-ps2-slps25112",
+      "assetId": "ac3-ps2-slps25112"
+    },
+    {
+      "editionId": "acsl-ps2-slps25169",
+      "assetId": "acsl-ps2-slps25169"
+    },
+    {
+      "editionId": "acn-ps2-slps25338",
+      "assetId": "acn-ps2-slps25338"
+    },
+    {
+      "editionId": "acn-ps2-slps25339",
+      "assetId": "acn-ps2-slps25339"
+    },
+    {
+      "editionId": "acnb-ps2-slps25408",
+      "assetId": "acnb-ps2-slps25408"
+    },
+    {
+      "editionId": "acff-ps2-slps25461",
+      "assetId": "acff-ps2-slps25461"
+    },
+    {
+      "editionId": "aclr-ps2-slps25462",
+      "assetId": "aclr-ps2-slps25462"
+    },
+    {
+      "editionId": "aclr-ps2-slps25730",
+      "assetId": "aclr-ps2-slps25730"
+    },
+    {
+      "editionId": "ac2-ps2-slps25731",
+      "fallbackEditionId": "ac2-ps2-slps25007",
+      "note": "Original JP release cover; an exact scan for this disc, reissue or trial is not yet available."
+    },
+    {
+      "editionId": "ac3-ps2-slps25732",
+      "fallbackEditionId": "ac3-ps2-slpm67524",
+      "note": "Original JP release cover; an exact scan for this disc, reissue or trial is not yet available."
+    },
+    {
+      "editionId": "acn-ps2-slps73202",
+      "assetId": "acn-ps2-slps73202"
+    },
+    {
+      "editionId": "acn-ps2-slps73203",
+      "assetId": "acn-ps2-slps73203"
+    },
+    {
+      "editionId": "aclr-ps2-slps73247",
+      "assetId": "aclr-ps2-slps73247"
+    },
+    {
+      "editionId": "ac2-ps2-slps73403",
+      "assetId": "ac2-ps2-slps73403"
+    },
+    {
+      "editionId": "ac2aa-ps2-slps73411",
+      "assetId": "ac2aa-ps2-slps73411"
+    },
+    {
+      "editionId": "ac3-ps2-slps73417",
+      "assetId": "ac3-ps2-slps73417"
+    },
+    {
+      "editionId": "acsl-ps2-slps73420",
+      "assetId": "acsl-ps2-slps73420"
+    },
+    {
+      "editionId": "ac2-ps2-slus20014",
+      "assetId": "ac2-ps2-slus20014"
+    },
+    {
+      "editionId": "ac2aa-ps2-slus20249",
+      "assetId": "ac2aa-ps2-slus20249"
+    },
+    {
+      "editionId": "ac3-ps2-slus20435",
+      "assetId": "ac3-ps2-slus20435"
+    },
+    {
+      "editionId": "acsl-ps2-slus20644",
+      "assetId": "acsl-ps2-slus20644"
+    },
+    {
+      "editionId": "acn-ps2-slus20986",
+      "assetId": "acn-ps2-slus20986"
+    },
+    {
+      "editionId": "acn-ps2-slus21079",
+      "assetId": "acn-ps2-slus21079"
+    },
+    {
+      "editionId": "acnb-ps2-slus21200",
+      "assetId": "acnb-ps2-slus21200"
+    },
+    {
+      "editionId": "aclr-ps2-slus21338",
+      "assetId": "aclr-ps2-slus21338"
+    },
+    {
+      "editionId": "ac3-psp-npuh10023",
+      "fallbackEditionId": "ac3-psp-uljm05492",
+      "note": "High-resolution Japanese PSP cover; this digital edition has no matching retail scan in the selected sources."
+    },
+    {
+      "editionId": "ac3-psp-uljm05492",
+      "assetId": "ac3-psp-uljm05492"
+    },
+    {
+      "editionId": "acsl-psp-npuh10025",
+      "fallbackEditionId": "acsl-psp-uljm05552",
+      "note": "High-resolution Japanese PSP cover; this digital edition has no matching retail scan in the selected sources."
+    },
+    {
+      "editionId": "acsl-psp-uljm05552",
+      "assetId": "acsl-psp-uljm05552"
+    },
+    {
+      "editionId": "acsl-psp-npeh00047",
+      "fallbackEditionId": "acsl-psp-uljm05552",
+      "note": "High-resolution Japanese PSP cover; this digital edition has no matching retail scan in the selected sources."
+    },
+    {
+      "editionId": "aclr-psp-npuh10024",
+      "fallbackEditionId": "aclr-psp-uljm05611",
+      "note": "High-resolution Japanese PSP cover; this digital edition has no matching retail scan in the selected sources."
+    },
+    {
+      "editionId": "aclr-psp-uljm05611",
+      "assetId": "aclr-psp-uljm05611"
+    },
+    {
+      "editionId": "acff-psp-ulus10034",
+      "assetId": "acff-psp-ulus10034"
+    },
+    {
+      "editionId": "acff-psp-ules00219",
+      "assetId": "acff-psp-ules00219"
+    },
+    {
+      "editionId": "acff-psp-uljs19001",
+      "assetId": "acff-psp-uljs19001"
+    },
+    {
+      "editionId": "ac4-ps3-bles00039",
+      "assetId": "ac4-ps3-bles00039"
+    },
+    {
+      "editionId": "ac4-ps3-blus30027",
+      "assetId": "ac4-ps3-blus30027"
+    },
+    {
+      "editionId": "acfa-ps3-bles00370",
+      "assetId": "acfa-ps3-bles00370"
+    },
+    {
+      "editionId": "acfa-ps3-blus30187",
+      "assetId": "acfa-ps3-blus30187"
+    },
+    {
+      "editionId": "acv-ps3-bles01440",
+      "assetId": "acv-ps3-bles01440"
+    },
+    {
+      "editionId": "acv-ps3-blus30516",
+      "assetId": "acv-ps3-blus30516"
+    },
+    {
+      "editionId": "acvd-ps3-bles01898",
+      "assetId": "acvd-ps3-bles01898"
+    },
+    {
+      "editionId": "acvd-ps3-blus31194",
+      "assetId": "acvd-ps3-blus31194"
+    },
+    {
+      "editionId": "ac4-ps3-bljm60012",
+      "assetId": "ac4-ps3-bljm60012"
+    },
+    {
+      "editionId": "acfa-ps3-bljm60066",
+      "assetId": "acfa-ps3-bljm60066"
+    },
+    {
+      "editionId": "acv-ps3-bljm60378",
+      "assetId": "acv-ps3-bljm60378"
+    },
+    {
+      "editionId": "acvd-ps3-bljm61014",
+      "assetId": "acvd-ps3-bljm61014"
+    },
+    {
+      "editionId": "ac4-x360-465307d6-us",
+      "assetId": "ac4-x360-465307d6-us"
+    },
+    {
+      "editionId": "ac4-x360-465307d6-jp",
+      "assetId": "ac4-x360-465307d6-jp"
+    },
+    {
+      "editionId": "acfa-x360-465307da-us",
+      "assetId": "acfa-x360-465307da-us"
+    },
+    {
+      "editionId": "acfa-x360-465307da-jp",
+      "fallbackEditionId": "acfa-x360-465307da-us",
+      "note": "US cover for the same game and console; this region's scan is not yet available."
+    },
+    {
+      "editionId": "acv-x360-4e4d084f-us",
+      "assetId": "acv-x360-4e4d084f-us"
+    },
+    {
+      "editionId": "acv-x360-4e4d084f-jp",
+      "assetId": "acv-x360-4e4d084f-jp"
+    },
+    {
+      "editionId": "acvd-x360-4e4d0864-us",
+      "assetId": "acvd-x360-4e4d0864-us"
+    },
+    {
+      "editionId": "acvd-x360-4e4d0864-jp",
+      "assetId": "acvd-x360-4e4d0864-jp"
+    }
+  ]
+}

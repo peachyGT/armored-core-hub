@@ -1,0 +1,16 @@
+7zr.exe 26.04 (2026-10-05), reduced standalone 7-Zip console tool
+Igor Pavlov. Public domain (LZMA SDK).
+
+Unmodified official binary:
+https://github.com/ip7z/7zip/releases/download/26.04/7zr.exe
+SHA-256: 256feca8e274e5da655e2a284fabafd9f554365eb164862089dacd4e8276d282
+Size: 602624 bytes.
+
+The official LZMA SDK includes 7zr.exe and places the SDK in the public domain:
+https://www.7-zip.org/sdk.html
+Version-specific source and build instructions:
+https://github.com/ip7z/7zip/tree/26.04/CPP/7zip/Bundles/Alone7z
+https://github.com/ip7z/7zip/blob/26.04/C/7zVersion.h
+
+The Hub invokes only this SHA-256-verified binary, for local .7z decompression.
+It does not install shell extensions, file associations or a Windows service.

@@ -1,0 +1,15 @@
+name: Feature request
+description: Suggest a change to the Hub.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would this help you do?
+      description: Describe the task or problem. Mention a game or console if relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested change
+      description: Examples or links to existing tools are welcome.
