@@ -3,7 +3,7 @@
   <img src="docs/media/compact-light.svg" alt="Armored Core Hub" width="460">
 </picture>
 
-A portable Windows launcher for the earlier Armored Core games.
+Easiest way to enjoy Armored Core.
 
 <p>
   <a href="https://github.com/peachyGT/armored-core-hub/releases">Download</a> ·
@@ -20,18 +20,19 @@ A portable Windows launcher for the earlier Armored Core games.
 
 ![The Hub's library and selected-game view](docs/media/library-wide-desktop.png)
 
-Keep your collection, emulator setup, controls and saves in one place. The Hub covers PlayStation, PlayStation 2, PSP, PlayStation 3 and Xbox 360 editions through DuckStation, PCSX2, PPSSPP, RPCS3 and Xenia Canary.
+Automatically and easily install any game in the series. No more messing around with emulators. The Hub covers PlayStation, PlayStation 2, PSP, PlayStation 3 and Xbox 360 editions through DuckStation, PCSX2, PPSSPP, RPCS3 and Xenia Canary.
 
-**This is an early preview.** Opening gameplay has been checked for several editions; full-game compatibility is not certified. See the [feature matrix](docs/feature-matrix.md) and [known limits](BLOCKED.md) before relying on a particular feature or game.
+**This is an early preview.** So far, I've confirmed that all games launch and work at stable framerates on my machines; full back to back game completion isn't 100% confirmed yet. See the [feature matrix](docs/feature-matrix.md) and [known limits](BLOCKED.md) before relying on a particular feature or game. Please submit issues you're having in the issue tracker using this template. 
 
 ## What it does
 
-- Identifies local game files and regional editions, including games inside supported ZIP, 7z and RAR archives.
-- Sets up pinned emulator builds and keeps settings separate for each edition. Games can share an installed build.
-- Groups the library by console or generation, with an adjustable library pane and cinematic backgrounds when local media supports them.
-- Lets you edit keyboard and controller bindings by game action, with separate Default, Community, Custom and imported profiles.
-- Provides graphics settings, local patch management, verified save backups and time played.
+- Identifies your game files and regional editions, including games inside supported ZIP, 7z and RAR archives.
+- Downloads, installs and sets up emulators automatically and keeps settings separate for each edition. Games share an installed emulator.
+- Groups the library by console or generation, with an adjustable library pane and cinematic video backgrounds when your game supports them.
 - Tracks supported native trophies and achievements, or RetroAchievements sets where available. Not every game has a set.
+- Tracks your playtime in each game.
+- Lets you edit keyboard and controller bindings by game action (Per game), with separate Default, Community, Custom and imported profiles.
+- Provides graphics settings, patch management, verified save backups and time played.
 - Warns before closing a running game and stops emulator/helper processes launched by the Hub when it exits.
 
 ## A look inside
@@ -59,14 +60,15 @@ The captures show the real native interface in an isolated preview copy. No game
 
 </details>
 
-## Get started
+## How do I use this?
 
 1. Download the Windows x64 ZIP from [Releases](https://github.com/peachyGT/armored-core-hub/releases) and extract it into a writable folder.
 2. Run `ArmoredCoreHub.exe`. The package includes .NET; no separate installation is needed.
-3. Choose **Add games** and select your local files or collection folder.
-4. Follow the selected game's checklist to install its emulator and add any required system files, then choose **Play**.
+3. Choose **Add games** and select a folder where your games are located or collection folder.
+4. Follow the selected game's prompts to have the Hub install its emulator and add any required system files, then click **Play**.
+5. Enjoy!
 
-Windows 10 or 11 x64 is required. Emulator hardware requirements still apply. PS1 and PS2 need compatible BIOS dumps; PS3 needs official system software. ZIP and 7z BIOS imports are supported. See the [user guide](docs/usage.md) for formats, settings and troubleshooting.
+Windows 10 or 11 x64 is required. Emulator hardware requirements still apply. PS1 and PS2 need compatible BIOS dumps. ZIP and 7z BIOS imports are supported. See the [user guide](docs/usage.md) for formats, settings and troubleshooting.
 
 ## Build
 
@@ -82,6 +84,6 @@ Tests use synthetic media. Real games, BIOS, firmware, saves and account credent
 
 Hub code is [MIT licensed](LICENSE). Fonts, libraries and other components retain their [own licenses](THIRD-PARTY-NOTICES.md).
 
-Use only game files and system dumps you are legally entitled to use. The Hub does not supply commercial games or BIOS files. Emulator binaries and PS3 firmware are not bundled. Read the [legal notice](LEGAL.md).
+Use only game files and system dumps you are legally entitled to use. The Hub does not supply commercial games or BIOS files. Emulator binaries and PS3 firmware are not bundled. We do NOT condone or support piracy. Read the [legal notice](LEGAL.md).
 
 This is an independent project, unaffiliated with FromSoftware, Bandai Namco, Sony, Microsoft or emulator authors.
