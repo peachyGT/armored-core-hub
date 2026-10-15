@@ -53,7 +53,11 @@ public partial class MainWindow : Window
 
     public MainWindow(HubPaths paths, string[] args)
     {
+#if HUB_DIAGNOSTICS
         suppressOperationDialogs=args.Contains("--self-test")||args.Contains("--resource-fixture");
+#else
+        suppressOperationDialogs=false;
+#endif
         this.paths = paths; catalog = CatalogStore.Load(paths.Managed("manifests")); store = new(paths); state = store.Load();
         foreach(var selection in state.Selections.Values) ControlProfiles.MigrateLegacy(selection.Controls);
         new PatchService(paths, catalog).LoadInstalled();
@@ -72,8 +76,12 @@ public partial class MainWindow : Window
         Loaded += async (_, _) =>
         {
             CheckControllers(this, new());
+#if HUB_DIAGNOSTICS
             await StartCovers(!args.Contains("--self-test"));
             if (args.Contains("--self-test")) await SelfTest(args);
+#else
+            await StartCovers(true);
+#endif
         };
     }
     private GameSelection Current
@@ -521,6 +529,7 @@ public partial class MainWindow : Window
     { if (Uri.TryCreate(url, UriKind.Absolute, out var uri) && uri.Scheme == "https") Process.Start(new ProcessStartInfo(uri.AbsoluteUri) { UseShellExecute = true }); }
     private static void OpenFolder(string folder)
     { Directory.CreateDirectory(folder); Process.Start(new ProcessStartInfo("explorer.exe") { ArgumentList = { folder }, UseShellExecute = true }); }
+    #if HUB_DIAGNOSTICS
     private async Task SelfTest(string[] args)
     {
         var at = Array.IndexOf(args, "--capture"); var dir = at >= 0 ? Path.GetFullPath(args[at + 1]) : paths.Managed("logs", "ui-test");
@@ -574,4 +583,5 @@ public partial class MainWindow : Window
         catch (Exception ex) { JsonData.WriteAtomic(Path.Combine(dir, "ui-results.json"), new { passed = false, error = ex.ToString(), checks }); Environment.ExitCode = 1; }
         Close();
     }
+    #endif
 }

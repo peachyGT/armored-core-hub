@@ -270,7 +270,7 @@ public partial class MainWindow
         foreach(var backend in catalog.Backends)Link(licenses,backend.Name+" · "+backend.License,(_,_)=>OpenUrl(backend.LicenseUrl));
         Link(licenses,"Cover artwork · GameTDB",(_,_)=>OpenUrl("https://www.gametdb.com"));
         void Document(string relative){var file=Path.Combine(AppContext.BaseDirectory,relative);if(File.Exists(file))System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo(file){UseShellExecute=true});}
-        Link(licenses,"Cover artwork sources and credits",(_,_)=>Document("docs/research/cover-art.md"));Link(licenses,"Open third-party notices",(_,_)=>Document("THIRD-PARTY-NOTICES.md"));Link(legal,"Open legal notice",(_,_)=>Document("LEGAL.md"));
+        Link(licenses,"Cover artwork sources and credits",(_,_)=>Document("docs/artwork-credits.md"));Link(licenses,"Open third-party notices",(_,_)=>Document("THIRD-PARTY-NOTICES.md"));Link(legal,"Open legal notice",(_,_)=>Document("LEGAL.md"));
         about.Children.Add(Body("Independent project, unaffiliated with FromSoftware, Bandai Namco, Sony, Microsoft or emulator authors. Game names identify supported titles; trademarks and artwork remain the property of their owners."));
         ActionButton("Back to settings", ShowAppearance);
     }

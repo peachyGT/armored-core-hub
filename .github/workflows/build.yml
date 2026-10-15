@@ -24,16 +24,28 @@ jobs:
         uses: actions/setup-dotnet@67a3573c9a986a3f9c594539f4ab511d57bb3ce9 # v4
         with:
           global-json-file: global.json
+      - name: Check public source files
+        shell: pwsh
+        run: python scripts/check-public-source.py
       - name: Build, test and publish
         shell: pwsh
         run: ./scripts/build.ps1 -Test -Publish
-      - name: Upload portable preview and test results
+      - name: Audit application package
+        shell: pwsh
+        run: ./scripts/audit-release.ps1 -PackageDirectory outputs/ArmoredCoreHub
+      - name: Upload application files
         if: success()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: armored-core-hub-win-x64-${{ github.sha }}
-          path: |
-            outputs/ArmoredCoreHub-0.3.10/
-            work/test-results/test-results.json
+          path: outputs/ArmoredCoreHub/
           if-no-files-found: error
+          retention-days: 7
+      - name: Upload test report separately
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: test-results-${{ github.sha }}
+          path: work/test-results/test-results.json
+          if-no-files-found: ignore
           retention-days: 7

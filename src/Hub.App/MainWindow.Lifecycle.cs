@@ -12,12 +12,21 @@ namespace Hub.App;
 public partial class MainWindow
 {
     private bool closeRequested,closeAuthorized;
+    #if HUB_DIAGNOSTICS
     private Func<bool>? confirmSessionClose;
+    #endif
+    private bool ConfirmSessionExit()
+    {
+        #if HUB_DIAGNOSTICS
+        if(confirmSessionClose!=null)return confirmSessionClose();
+        #endif
+        return MessageBox.Show(this,"A game session is active. Closing the Hub will also close its emulator. Save your progress before continuing.\n\nClose the game and Hub?","Close running game",MessageBoxButton.YesNo,MessageBoxImage.Warning,MessageBoxResult.No)==MessageBoxResult.Yes;
+    }
     private async void OnClosing(object? sender,CancelEventArgs e)
     {
         if(closeAuthorized)return;
         e.Cancel=true;if(closeRequested||!ConfirmAdvanced())return;
-        if(launcher.IsRunning&&!(confirmSessionClose?.Invoke()??MessageBox.Show(this,"A game session is active. Closing the Hub will also close its emulator. Save your progress before continuing.\n\nClose the game and Hub?","Close running game",MessageBoxButton.YesNo,MessageBoxImage.Warning,MessageBoxResult.No)==MessageBoxResult.Yes))return;
+        if(launcher.IsRunning&&!ConfirmSessionExit())return;
         closeRequested=true;StatusText.Text="Closing game and background work · protecting saves…";
         try
         {
@@ -48,6 +57,7 @@ public partial class MainWindow
             statusDescriptor.RemoveValueChanged(StatusText,statusValueChanged);
             downloader.HealthChanged-=ProviderHealthChanged;launcher.StatusChanged-=LauncherStatusChanged;http.Dispose();
         };
+        #if HUB_DIAGNOSTICS
         if(args.Contains("--resource-self-test"))Loaded+=async(_,_)=>
         {
             var checks=new List<string>();
@@ -59,6 +69,7 @@ public partial class MainWindow
             if(args.Contains("--resource-dump"))await Task.Delay(TimeSpan.FromSeconds(30));
             Close();
         };
+        #endif
     }
     private void AnnounceStatus(object? sender,EventArgs args)
     {

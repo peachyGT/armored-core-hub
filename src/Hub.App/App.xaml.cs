@@ -7,9 +7,11 @@ namespace Hub.App;
 public partial class App : Application
 {
     private Mutex? instance;
+    private Mutex? setupGuard;
     protected override void OnStartup(StartupEventArgs e)
     {
         base.OnStartup(e);
+        setupGuard=new Mutex(false,"Local\\ArmoredCoreHub.SetupGuard");
         ApplyContrast();
         SystemParameters.StaticPropertyChanged += SystemPreferencesChanged;
         DispatcherUnhandledException += (_, args) => { MessageBox.Show(args.Exception.Message,"Armored Core Hub",MessageBoxButton.OK,MessageBoxImage.Error); args.Handled=true; };
@@ -26,7 +28,7 @@ public partial class App : Application
         }
         catch(Exception ex){MessageBox.Show("The Hub could not initialize its portable storage. Extract it to a writable folder.\n\n"+ex.Message,"Armored Core Hub",MessageBoxButton.OK,MessageBoxImage.Error);Shutdown(1);}
     }
-    protected override void OnExit(ExitEventArgs e) { SystemParameters.StaticPropertyChanged -= SystemPreferencesChanged; instance?.Dispose(); base.OnExit(e); }
+    protected override void OnExit(ExitEventArgs e) { SystemParameters.StaticPropertyChanged -= SystemPreferencesChanged; instance?.Dispose(); setupGuard?.Dispose(); base.OnExit(e); }
     private void SystemPreferencesChanged(object? sender,PropertyChangedEventArgs args)
     {
         if(args.PropertyName!=nameof(SystemParameters.HighContrast)||Dispatcher.HasShutdownStarted)return;

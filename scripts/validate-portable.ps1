@@ -1,4 +1,4 @@
-param([string]$PackageDirectory='outputs/ArmoredCoreHub-0.3.10')
+param([string]$PackageDirectory='outputs/ArmoredCoreHub-diagnostics')
 $ErrorActionPreference='Stop'
 $projectRoot=Split-Path $PSScriptRoot -Parent
 Set-Location -LiteralPath $projectRoot

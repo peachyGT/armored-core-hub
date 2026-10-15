@@ -1,5 +1,14 @@
 work/
 outputs/
+.kiro/
+docs/research/
+docs/testing/
+PRODUCT.md
+DESIGN.md
+STATUS.md
+BLOCKED.md
+MODDING_PLAN.md
+MODLOG.md
 **/bin/
 **/obj/
 .vs/

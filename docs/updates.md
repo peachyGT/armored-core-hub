@@ -24,6 +24,6 @@ The future remote feed can use Metadata providers. Trust and rollback are alread
 
 ## Hub binaries
 
-Close the Hub and extract a new signed release beside the old one, preserving data directories. A future automatic updater should stage a verified package and swap program files only after shutdown, retaining rollback. That automatic binary updater is an architectural seam, not a hosted service.
+Close the Hub before updating. Run the new installer over the installed copy, or back up the portable folder and replace its application files while preserving data directories. Current downloads are unsigned; SHA-256 checksums accompany each release. A future automatic updater should stage a verified package and swap program files only after shutdown, retaining rollback. That automatic binary updater is an architectural seam, not a hosted service.
 
 Patch/extension install is separate from enable/select. Artwork requires redistribution permission. Game media is not an asset-provider kind.

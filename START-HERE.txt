@@ -1,0 +1,21 @@
+Armored Core Hub
+
+Open ArmoredCoreHub.exe, choose Add games and select your game folder.
+The selected game's setup checklist shows what still needs to be added.
+The Hub downloads and sets up the required emulator for you.
+
+Windows 10 or 11, x64. No separate .NET installation is needed.
+Supply your own legally obtained game files and required BIOS dumps.
+
+Portable ZIP: extract the entire ZIP into a writable folder before starting.
+Keep the files together. Your library, settings and saves live beside the app.
+Back up that folder before replacing its application files with a new version.
+
+Installer: click Install, then open the Hub from its Start menu shortcut.
+Reinstalling an update preserves your library, settings and saves. Uninstalling
+removes installed app files and shortcuts; it leaves your personal Hub data.
+An existing portable copy remains separate from the installed copy.
+
+Guide: docs/usage.md
+Downloads: https://github.com/peachyGT/armored-core-hub/releases/latest
+Report a problem: https://github.com/peachyGT/armored-core-hub/issues

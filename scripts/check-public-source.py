@@ -9,7 +9,7 @@ root = pathlib.Path(__file__).resolve().parents[1]
 names = subprocess.check_output(
     ["git", "ls-files", "-z", "--cached", "--others", "--exclude-standard"], cwd=root
 ).decode("utf-8").split("\0")
-private = ("work/", "outputs/", "runtime/", "games/", "saves/", "firmware/", "cache/", "config/")
+private = ("work/", "outputs/", "runtime/", "games/", "saves/", "firmware/", "cache/", "config/", ".kiro/", "docs/research/", "docs/testing/")
 allowed_binary = {
     "src/Hub.App/Assets/Hub.ico", "src/Hub.App/Assets/Cinzel.ttf",
     "src/Hub.App/Assets/BarlowSemiCondensed-SemiBold.ttf", "third-party/7zip/7zr.exe",

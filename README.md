@@ -6,15 +6,15 @@
 Easiest way to enjoy Armored Core.
 
 <p>
-  <a href="https://github.com/peachyGT/armored-core-hub/releases">Download</a> ·
-  <a href="docs/usage.md">User guide</a> ·
-  <a href="https://github.com/peachyGT/armored-core-hub/issues/new?template=bug.yml">Report a bug</a> ·
+  <a href="https://github.com/peachyGT/armored-core-hub/releases">Download</a> Â·
+  <a href="docs/usage.md">User guide</a> Â·
+  <a href="https://github.com/peachyGT/armored-core-hub/issues/new?template=bug.yml">Report a bug</a> Â·
   <a href="CONTRIBUTING.md">Contribute</a>
 </p>
 
 <p>
   <a href="https://github.com/peachyGT/armored-core-hub/actions/workflows/build.yml"><img src="https://github.com/peachyGT/armored-core-hub/actions/workflows/build.yml/badge.svg" alt="Windows build and tests"></a>
-  <a href="https://github.com/peachyGT/armored-core-hub/releases"><img src="https://img.shields.io/github/v/release/peachyGT/armored-core-hub?include_prereleases&amp;label=preview&amp;color=49473f&amp;labelColor=24221e" alt="Latest preview"></a>
+  <a href="https://github.com/peachyGT/armored-core-hub/releases"><img src="https://img.shields.io/github/v/release/peachyGT/armored-core-hub?label=release&amp;color=49473f&amp;labelColor=24221e" alt="Latest release"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-49473f?labelColor=24221e" alt="MIT license"></a>
 </p>
 
@@ -22,7 +22,7 @@ Easiest way to enjoy Armored Core.
 
 Add your Armored Core games and let the Hub handle emulator setup for you. It automatically downloads, installs and configures DuckStation, PCSX2, PPSSPP, RPCS3 and Xenia Canary for the supported PlayStation, PlayStation 2, PSP, PlayStation 3 and Xbox 360 editions.
 
-**This is an early preview.** So far, the games we've tried in our autonomous harnesses launch and run at stable framerates on our test machines. Full playthroughs and every console/region edition aren't 100% confirmed yet. See [what we've tested](docs/testing/COVERAGE.md), the [feature matrix](docs/feature-matrix.md) and [known limits](BLOCKED.md).
+**Still in development.** So far, the games we've tried in our autonomous harnesses launch and run at stable framerates on our test machines. Full playthroughs and every console/region edition aren't 100% confirmed yet. See [what we've tested](docs/compatibility.md), the [feature matrix](docs/feature-matrix.md) and [known limits](docs/compatibility.md).
 
 Please submit issues you're having in the [issue tracker](https://github.com/peachyGT/armored-core-hub/issues) using the [bug-report form](https://github.com/peachyGT/armored-core-hub/issues/new?template=bug.yml). Your Hub version, steps and what went wrong are enough to start; logs or screenshots help.
 
@@ -39,11 +39,13 @@ Please submit issues you're having in the [issue tracker](https://github.com/pea
 
 ## How do I use this?
 
-1. Download the Windows x64 ZIP from [Releases](https://github.com/peachyGT/armored-core-hub/releases) and extract it into a writable folder.
-2. Run `ArmoredCoreHub.exe`. The package includes .NET; no separate installation is needed.
+1. [Download the Windows installer](https://github.com/peachyGT/armored-core-hub/releases/latest/download/ArmoredCoreHub-Setup-win-x64.exe), open it and click **Install**.
+2. Open **Armored Core Hub** from the Start menu.
 3. Choose **Add games** and select the folder where your games are located.
-4. Follow the selected game's prompts to have the Hub install its emulator and add any required system files, then click **Play**.
+4. Follow the selected game's setup checklist, then click **Play**.
 5. Enjoy!
+
+Prefer a folder you can move? [Download the portable ZIP](https://github.com/peachyGT/armored-core-hub/releases/latest/download/ArmoredCoreHub-win-x64.zip), extract it completely and run `ArmoredCoreHub.exe`. No separate .NET installation is needed. [Release notes](https://github.com/peachyGT/armored-core-hub/releases/latest) are tucked below the download guide.
 
 The checklist shows what's done and what your selected game still needs.
 

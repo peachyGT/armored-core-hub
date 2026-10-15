@@ -6,7 +6,7 @@ namespace Hub.Core;
 
 // Native offline Account and CON-directory header serialization, independently
 // implemented from Canary's X_XAMACCOUNTINFO/ProfileManager/XContentMetadata.
-// Format sources and native acceptance evidence: docs/research/xenia-local-profile.md.
+// Format source: https://github.com/xenia-canary/xenia-canary (X_XAMACCOUNTINFO, ProfileManager, XContentMetadata).
 internal static class XeniaLocalAccount
 {
     private const int AccountInfoSize=0x17c,EncryptedSize=AccountInfoSize+0x18;

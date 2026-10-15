@@ -1,6 +1,6 @@
-# Baseline acceptance map
+# Features and current limits
 
-For a short explanation of what has and has not been checked, see [test coverage](testing/COVERAGE.md). The README's gameplay report refers to the titles exercised in our harnesses, not every console/region edition or completed playthrough.
+For a short explanation of what has and has not been checked, see [test coverage](compatibility.md). The README's gameplay report refers to the titles exercised in our harnesses, not every console/region edition or completed playthrough.
 
 | Requirement | Result |
 |---|---|
