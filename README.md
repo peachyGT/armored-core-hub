@@ -6,9 +6,9 @@
 Easiest way to enjoy Armored Core.
 
 <p>
-  <a href="https://github.com/peachyGT/armored-core-hub/releases">Download</a> Â·
-  <a href="docs/usage.md">User guide</a> Â·
-  <a href="https://github.com/peachyGT/armored-core-hub/issues/new?template=bug.yml">Report a bug</a> Â·
+  <a href="https://github.com/peachyGT/armored-core-hub/releases">Download</a> ·
+  <a href="docs/usage.md">User guide</a> ·
+  <a href="https://github.com/peachyGT/armored-core-hub/issues/new?template=bug.yml">Report a bug</a> ·
   <a href="CONTRIBUTING.md">Contribute</a>
 </p>
 
